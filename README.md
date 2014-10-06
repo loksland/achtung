@@ -1,4 +1,4 @@
-# grunt-achtung
+# Achtung
 
 > Add contextual notices in your scripts and text files, based on the #warning directive in C
 
@@ -16,11 +16,11 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-achtung');
 ```
 
-## The "achtung" task
+## The achtung task
 
 ### Overview
 
-Enter text prefixed by `|!|` in the source of any textfile:
+Enter text prefixed by `|!|` in the source of any text file:
 
 ```js
 // |!| Enter a warning / notice here
@@ -154,4 +154,5 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-- v1.0.0 – Initial release
+- v0.1.0 – Initial release
+- v0.1.3 – Updating publish meta

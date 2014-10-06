@@ -1,7 +1,7 @@
 {
   "name": "grunt-achtung",
-  "description": "Add warning comments in your node scripts, based on the #warning directive in  C",
-  "version": "0.1.0",
+  "description": "Add contextual notices in your scripts and text files, based on the #warning directive in C",
+  "version": "0.1.3",
   "homepage": "https://github.com/loksland/achtung",
   "author": {
     "name": "loksland",
@@ -38,6 +38,7 @@
   },
   "keywords": [
     "gruntplugin",
+    "achtung",
     "warning",
     "dev",
     "developer",
