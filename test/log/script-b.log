@@ -1,0 +1,12 @@
+[
+  {
+    "filepath": "test/dummy-scripts/script-b.js",
+    "lineNum": 2,
+    "comment": " Consider older versions"
+  },
+  {
+    "filepath": "test/dummy-scripts/script-b.js",
+    "lineNum": 16,
+    "comment": " This is the last line"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "filepath": "test/dummy-scripts/script-a.js",
+    "lineNum": 1,
+    "comment": " Make case insensitive"
+  },
+  {
+    "filepath": "test/dummy-scripts/script-a.js",
+    "lineNum": 10,
+    "comment": " Up to here"
+  }
+]
