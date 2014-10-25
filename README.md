@@ -156,3 +156,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Release History
 - v0.1.0 – Initial release
 - v0.1.3 – Updating publish meta
+- v0.1.4 – Updating publish meta
